@@ -10,7 +10,7 @@ class App extends React.Component {
   render() {
     const name = "Ethan";
     return (
-      <div>
+      <div className="container">
         <Popular />
       </div>
     );
